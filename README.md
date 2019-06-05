@@ -1,2 +1,2 @@
-# DS/Algo Practice
+# Table of Contents
 
